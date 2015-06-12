@@ -1,6 +1,6 @@
 # SourceTreeActions
 
-GitクライアントアプリSourceTree用のアクション集
+Gitクライアントアプリ[SourceTree](https://www.sourcetreeapp.com)用のアクション集
 
 ## open-diff.rb
 
@@ -14,4 +14,4 @@ GitクライアントアプリSourceTree用のアクション集
 
 ## view-on-web.sh
 
-Webのリポジトリページを開く。GitHub と BitBucket に対応。Mac専用アクション。設定の引数は $REPO
+Webのリポジトリページを開く。[GitHub](https://github.com) と [BitBucket](https://bitbucket.org) に対応。Mac専用アクション。設定の引数は $REPO
