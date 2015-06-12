@@ -2,9 +2,9 @@
 
 GitクライアントアプリSourceTree用のアクション集
 
-## git-diff.rb
+## open-diff.rb
 
-選択したコミット(複数可)の差分を一時ファイルに出力してATOMで表示する。設定の引数は $SHA
+選択したコミット(複数可)の差分を一時ファイルに出力して開く。設定の引数は $SHA
 
 
 ## open-in-terminal.sh
