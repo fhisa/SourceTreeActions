@@ -11,4 +11,4 @@ open(path, "w") do |io|
   io.flush
 end
 
-system "/usr/local/bin/atom #{path}"
+system "open #{path}"
