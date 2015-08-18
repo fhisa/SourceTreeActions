@@ -17,3 +17,7 @@ Webのリポジトリページを開く。[GitHub](https://github.com) と [BitB
 ## sync-fork-repository.rb
 
 forkしたリポジトリのmasterをfork元に同期させる。
+
+## open-in-xcode.rb
+
+Xcode で開く。Mac専用アクション。設定の引数は $REPO
